@@ -1,5 +1,6 @@
 package main
 
+// solved
 func maxProfit(prices []int) int {
 	maxProfit := 0
 	buy := prices[0]
