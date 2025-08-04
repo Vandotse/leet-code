@@ -1,3 +1,5 @@
+package main
+
 func lengthOfLongestSubstring(s string) int {
 	n := len(s)
 	maxLength := 0
